@@ -1,0 +1,17 @@
+//
+//  Goumee_ScheduleViewController.h
+//  GouMee
+//
+//  Created by 白冰 on 2020/3/14.
+//  Copyright © 2020 白冰. All rights reserved.
+//
+
+#import "GouMee_BaseViewController.h"
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface Goumee_ScheduleViewController : GouMee_BaseViewController
+
+@end
+
+NS_ASSUME_NONNULL_END

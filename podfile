@@ -1,0 +1,18 @@
+platform :ios, '9.0'
+
+use_frameworks!
+
+target 'GouMee' do
+
+pod 'YYModel'
+pod 'AFNetworking'
+pod 'MJRefresh'
+pod 'MJExtension'
+pod 'IQKeyboardManager'
+pod 'SDWebImage/GIF'
+pod 'YYKit'
+pod 'KVOController'
+pod 'Masonry'
+pod 'FMDB'
+pod 'MBProgressHUD'
+end
